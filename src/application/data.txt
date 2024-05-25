@@ -1,0 +1,93 @@
+Atatra-Beit Lahia
+Atatra-Sheikh Za'id
+Atatra-Jabalia
+Atatra-Rimal
+Beit Lahia-Atatra
+Beit Lahia-Sheikh Za'id
+Sheikh Za'id-Beit Lahia
+Sheikh Za'id-Atatra
+Sheikh Za'id-Jabalia
+Sheikh Za'id-Gaza
+Jabalia-Rimal
+Jabalia-Sheikh Za'id
+Jabalia-Gaza
+Jabalia-Atatra
+Rimal-Jabalia
+Rimal-Atatra
+Rimal-AlAqsa University
+Rimal-Gaza
+Rimal-Jaber
+AlAqsa University-Gaza
+AlAqsa University-Rimal
+Gaza-Rimal
+Gaza-Sheikh Za'id
+Gaza-Rimal
+Gaza-Jabalia
+Gaza-Al Mughraqa
+Gaza-Juhor ad Dik
+Gaza-AlAqsa University
+Rafah-Khan Yunis
+AlAqsa University-Juhor ad Dik
+AlAqsa University-Al Mughraqa
+Juhor ad Dik-Al Mughraqa
+Juhor ad Dik-Gaza
+Juhor ad Dik-Nuseirat Camp
+Juhor ad Dik-Bureij
+Al Mughraqa-Bureij
+Al Mughraqa-Juhor ad Dik
+Al Mughraqa-Nuseirat Camp
+Al Mughraqa-Gaza
+Al Mughraqa-AlAqsa University
+Al Mughraqa-Deir al Balah
+Nuseirat Camp-Bureij
+Nuseirat Camp-Al Mughraqa
+Nuseirat Camp-Juhor ad Dik
+Nuseirat Camp-Maghazi
+Nuseirat Camp-Al Musaddar
+Nuseirat Camp-Deir al Balah
+Bureij-Al Musaddar
+Bureij-Nuseirat Camp
+Bureij-Juhor ad Dik
+Bureij-Al Mughraqa
+Al Musaddar-Bureij
+Al Musaddar-Nuseirat Camp
+Al Musaddar-Maghazi
+Al Musaddar-Deir al Balah
+Al Musaddar-Al Qarara
+Maghazi-Al Musaddar
+Maghazi-Deir al Balah
+Maghazi-Nuseirat Camp
+Deir al Balah-Al Qarara
+Deir al Balah-Maghazi
+Deir al Balah-Al Musaddar
+Deir al Balah-Bureij
+Deir al Balah-Nuseirat Camp
+Deir al Balah-Al Mughraqa
+Deir al Balah-Khan Yunis
+Al Qarara-Deir al Balah
+Al Qarara-Khan Yunis
+Al Qarara-Bani Suheila
+Al Qarara-Al Musaddar
+Khan Yunis-Bani Suheila
+Khan Yunis-Al Qarara
+Khan Yunis-Al Mawasi
+Khan Yunis-Rafah
+Khan Yunis-Tal as Sultan
+Khan Yunis-Al Qarya as Suwaydiya
+Bani Suheila-Abasan alKabira
+Bani Suheila-Khan Yunis
+Bani Suheila-Al Qarara
+Abasan alKabira-Bani Suheila
+Al Mawasi-Khan Yunis
+Al Mawasi-Al Qarya as Suwaydiya
+Al Mawasi-Tal as Sultan
+Al Qarya as Suwaydiya-Al Mawasi
+Al Qarya as Suwaydiya-Tal as Sultan
+Al Qarya as Suwaydiya-Rafah
+Al Qarya as Suwaydiya-Khan Yunis
+Tal as Sultan-Rafah
+Tal as Sultan-Al Mawasi
+Tal as Sultan-Khan Yunis
+Rafah-Tal as Sultan
+Rafah-Khan Yunis
+Rafah-Al Qarya as Suwaydiya
